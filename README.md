@@ -84,10 +84,8 @@ Sebelum menjalankan aplikasi, pastikan perangkat telah memiliki:
 **1. Clone repository**
 
 ```bash
-git clone https://github.com/USERNAME/KatalogProduk.git
+git clone https://github.com/arinyrahmawati/katalog_produk.git
 ```
-
-Ganti `USERNAME` dengan username GitHub pemilik repository.
 
 **2. Masuk ke direktori project**
 
@@ -134,13 +132,17 @@ Struktur tabel `produk`:
 
 ##  Tampilan Aplikasi
 
-*Tambahkan screenshot aplikasi pada bagian ini setelah aplikasi selesai dijalankan.*
+### 1. Halaman Katalog Produk
 
+![Katalog](screenshots_katalogproduk/screenshots_katalogproduk.jpeg)
 
+### 2. Form Tambah Produk
 
-```markdown
-![Katalog Produk](screenshots/katalog-produk.png)
-```
+![Tambah Produk](screenshots_katalogproduk/screenshots_deleteproduk.jpeg)
+
+### 3. Form Update Produk
+
+![Update Produk](screenshots_katalogproduk/screenshots_updateproduk.jpeg)
 
 ##  Pengembang
 
